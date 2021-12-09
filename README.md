@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HCarneiro
 - 👀 I’m interested in ASP.NET
-- 🌱 I’m currently learning ASP.NET Web API
+- 🌱 I’m currently learning ASP.NET Blazor and API
 
 <!---
 hfpsc27/hfpsc27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
